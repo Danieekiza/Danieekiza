@@ -5,3 +5,5 @@
 
 ![Static Badge](https://img.shields.io/badge/py-python-orange?style=plastic&logo=python)
 ![Static Badge](https://img.shields.io/badge/-jupyter-black?style=plastic&logo=jupyter)
+
+![Danieekiza's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
